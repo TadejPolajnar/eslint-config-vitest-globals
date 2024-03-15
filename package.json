@@ -1,14 +1,11 @@
 {
   "name": "eslint-config-vitest-globals",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "TadejPolajnar",
   "description": "Tiny vitest-eslint library contains globals for vitest",
   "license": "MIT",
   "main": "./index.js",
-  "keywords": [
-    "eslint",
-    "vitest"
-  ],
+  "keywords": ["eslint", "vitest"],
   "repository": {
     "type": "git",
     "url": "https://github.com/TadejPolajnar/eslint-config-vitest-globals.git"
