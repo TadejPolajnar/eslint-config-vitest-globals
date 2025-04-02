@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vitest-globals",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "TadejPolajnar",
   "description": "Tiny vitest-eslint library contains globals for vitest",
   "license": "MIT",
