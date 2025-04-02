@@ -6,6 +6,7 @@ export default function vitestGlobals() {
         vi: true,
         describe: true,
         it: true,
+        test: true,
         expect: true,
         beforeEach: true,
         afterEach: true,
